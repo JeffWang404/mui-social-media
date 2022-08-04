@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/JeffWang404/mui-social-media/static/css/main.6ebe3a81.css",
-    "main.js": "/JeffWang404/mui-social-media/static/js/main.f774fd99.js",
-    "index.html": "/JeffWang404/mui-social-media/index.html",
-    "main.6ebe3a81.css.map": "/JeffWang404/mui-social-media/static/css/main.6ebe3a81.css.map",
-    "main.f774fd99.js.map": "/JeffWang404/mui-social-media/static/js/main.f774fd99.js.map"
+    "main.css": "/mui-social-media/static/css/main.6ebe3a81.css",
+    "main.js": "/mui-social-media/static/js/main.f774fd99.js",
+    "index.html": "/mui-social-media/index.html",
+    "main.6ebe3a81.css.map": "/mui-social-media/static/css/main.6ebe3a81.css.map",
+    "main.f774fd99.js.map": "/mui-social-media/static/js/main.f774fd99.js.map"
   },
   "entrypoints": [
     "static/css/main.6ebe3a81.css",
