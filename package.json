@@ -2,7 +2,7 @@
   "name": "mui-social-media",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/JeffWang404/mui-social-media",
+  "homepage": "https://JeffWang404.github.io/mui-social-media",
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
